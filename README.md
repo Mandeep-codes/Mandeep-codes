@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on insta
 - 📫 How to reach me mandeep.codess@gmail.com
 - 😄 Pronouns: he/him
-- Currently in my first year in btech artificial intelligence and data science
+- Currently gonna be in second year btech artificial intelligence and data science
 
 <!---
 Mandeep-codes/Mandeep-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
