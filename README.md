@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning solidty and smart contracts
 - 📫 How to reach me mandeep.codess@gmail.com  www.linkedin.com/in/mandeep-nehra-289224371
 - 😄 Pronouns: he/him
-- Currently gonna be in second year btech artificial intelligence and data science
+- Currently in second year btech artificial intelligence and data science
 
 <!---
 Mandeep-codes/Mandeep-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
